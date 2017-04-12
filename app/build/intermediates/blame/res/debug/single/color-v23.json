@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/danielakerman/AndroidStudioProjects/HealthandFitnessQuiz/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/danielakerman/.android/build-cache/3a4abe125f3768873de48a154fe162e72dd46890/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/danielakerman/AndroidStudioProjects/HealthandFitnessQuiz/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/danielakerman/.android/build-cache/3a4abe125f3768873de48a154fe162e72dd46890/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/danielakerman/AndroidStudioProjects/HealthandFitnessQuiz/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/danielakerman/.android/build-cache/3a4abe125f3768873de48a154fe162e72dd46890/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/danielakerman/AndroidStudioProjects/HealthandFitnessQuiz/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/danielakerman/.android/build-cache/3a4abe125f3768873de48a154fe162e72dd46890/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/danielakerman/AndroidStudioProjects/HealthandFitnessQuiz/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/danielakerman/.android/build-cache/3a4abe125f3768873de48a154fe162e72dd46890/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/danielakerman/AndroidStudioProjects/HealthandFitnessQuiz/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/danielakerman/.android/build-cache/3a4abe125f3768873de48a154fe162e72dd46890/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/danielakerman/AndroidStudioProjects/HealthandFitnessQuiz/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/danielakerman/.android/build-cache/3a4abe125f3768873de48a154fe162e72dd46890/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/danielakerman/AndroidStudioProjects/HealthandFitnessQuiz/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/danielakerman/.android/build-cache/3a4abe125f3768873de48a154fe162e72dd46890/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/danielakerman/AndroidStudioProjects/HealthandFitnessQuiz/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/danielakerman/.android/build-cache/3a4abe125f3768873de48a154fe162e72dd46890/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/danielakerman/AndroidStudioProjects/HealthandFitnessQuiz/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/danielakerman/.android/build-cache/3a4abe125f3768873de48a154fe162e72dd46890/output/res/color-v23/abc_tint_switch_thumb.xml"
+    }
+]

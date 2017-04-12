@@ -1,0 +1,7 @@
+#Wed Apr 12 20:10:46 BST 2017
+base.0=/Users/danielakerman/AndroidStudioProjects/HealthandFitnessQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_211d95d112559fd1e49720079d73becbe9863a75
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/danielakerman/AndroidStudioProjects/HealthandFitnessQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_032cb1eb66de8ffd38b0e89e7263ba359047e0e8/classes.dex
+base.1=/Users/danielakerman/AndroidStudioProjects/HealthandFitnessQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_032cb1eb66de8ffd38b0e89e7263ba359047e0e8
+file.0=/Users/danielakerman/AndroidStudioProjects/HealthandFitnessQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_211d95d112559fd1e49720079d73becbe9863a75/classes.dex

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/danielakerman/AndroidStudioProjects/HealthandFitnessQuiz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e99cc6f3519dd330dba2733d98e03e6ba0f2172">
+        <dex dex="/Users/danielakerman/AndroidStudioProjects/HealthandFitnessQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_032cb1eb66de8ffd38b0e89e7263ba359047e0e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/danielakerman/AndroidStudioProjects/HealthandFitnessQuiz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/danielakerman/AndroidStudioProjects/HealthandFitnessQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_211d95d112559fd1e49720079d73becbe9863a75/classes.dex" />
+    </item>
+
+</items>
